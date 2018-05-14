@@ -66,7 +66,7 @@ Consumer groups are a key element in Azure event ingestion services that allow c
          <img src="/HOL/IOTHubPiHackathon/images/RMDashboard.jpg"/> 
       </p>
 
-5. Create a new custom device within the RM-PCS. 
+5. Create a new custom device within the IoT Solution Accelerator. 
   - At the bottom left of the portal, click the "+ Add A Device" button. 
       <p align="center">
          <img src="/HOL/IOTHubPiHackathon/images/AddDevice.jpg"/> 
