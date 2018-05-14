@@ -25,11 +25,6 @@ In the following section of the Hands on Lab, you will walk through the creation
          <img src="/HOL/IOTHubPiHackathon/images/SolutionReady.jpg" width="30%" height="30%" /> 
       </p>
 
-## (Optional) Enabling Interactive Bing Maps in the Pre-configured Solution 
-
-The new version of the remote monitoring pre-configured solution comes with a static Bing map image configured by default. For this hands on lab, we won't be making use of the interactive maps but if interested, instructions on how to enable it is available [here](/HOL/IOTHubPiHackathon/OptionalLabs/DynamicMaps.md)
-
-
 ## Obtain Your IoT Hub Primary Key and Connection String
 1. Open the [Azure Portal](https://portal.azure.com/) tab and navigate to your IoT Hub service that you deployed as part of the remote monitoring solution
   - Click the *resource group* icon -> click the name of your remote monitoring solution -> click the IoT Hub service that was created when you provisioned the remote monitoring solution. 
