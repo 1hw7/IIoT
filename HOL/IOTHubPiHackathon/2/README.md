@@ -11,7 +11,6 @@ In the following section of the Hands on Lab, you will walk through the creation
   - Fill out the form to create a Remote monitoring solution
     - Enter a name for your remote monitoring solution eg. IoTHandsOnLab-VinnyH. Note that the solution name needs to be globally unique. Once you provide a unique name, a green checkmark will appear to indicate that the solution name is valid. 
     - Choose the subscription that you will be using eg. Visual Studio Enterprise with MSDN
-    - Click "I Accept" 
     - Select the closest region to deploy your remote monitoring solution eg. East US
     - Click "Create solution". The remote monitoring solution will get provisioned to your Azure subscription in approximately 5 minutes. 
        <p align="center">
