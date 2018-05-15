@@ -71,14 +71,14 @@ Consumer groups are a key element in Azure event ingestion services that allow c
       <p align="center">
          <img src="/HOL/IOTHubPiHackathon/images/RMDashboardwArrow.jpg"/> 
       </p>
-  - On the "Step 1 of 3" page, click "Add New" to add in a custom device. The custom device that you will add is the physical Raspberry Pi. 
+  - Under device type, select physical. The custom device that you will add is the physical Raspberry Pi. 
       <p align="center">
          <img src="/HOL/IOTHubPiHackathon/images/AddNewCustomDevice.jpg"/> 
       </p>
-  - On the "Step 2 of 3" page, click the "Let me define my own Device ID" radio button. Enter in a device ID eg. MyRaspberryPi. Click on the "Check ID" button to ensure that your device ID is unique. If the Device ID is unique, the text "Device ID is available" in green text will appear. Click the "Create" button. 
-      <p align="center">
-         <img src="/HOL/IOTHubPiHackathon/images/DefineDeviceID.jpg"/> 
-      </p>
+  - Under Device ID, create a custom Device ID. Enter in a device ID eg. MyRaspberryPi. 
+  
+  -Leave the Authentication Type as Symmetric Key.
+  
   - The "Step 3 of 3" page provides you the *Device ID*, *IoT Hub Hostname* and *Device Key* that you will need to connect your Raspberry Pi to the remote monitoring solution. Take note of the value of these fields. Feel free to use the parameters template provided earlier.  
       <p align="center">
          <img src="/HOL/IOTHubPiHackathon/images/CustomDeviceParams.jpg"/> 
