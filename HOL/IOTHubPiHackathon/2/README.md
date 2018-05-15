@@ -76,9 +76,12 @@ Consumer groups are a key element in Azure event ingestion services that allow c
          <img src="/HOL/IOTHubPiHackathon/images/AddNewCustomDevice.jpg"/> 
       </p>
   - Under Device ID, create a custom Device ID. Enter in a device ID eg. MyRaspberryPi. 
-  -Leave the Authentication Type as Symmetric Key.
-  -Select Auto Generate Keys under Authentican Key.
-  -Select Apply.
+  
+  - Leave the Authentication Type as Symmetric Key.
+  
+  - Select Auto Generate Keys under Authentican Key.
+  
+  - Select Apply.
       <p align="center">
          <img src="/HOL/IOTHubPiHackathon/images/CustomDeviceParams.jpg"/> 
       </p>
