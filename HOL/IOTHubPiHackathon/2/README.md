@@ -85,6 +85,8 @@ Consumer groups are a key element in Azure event ingestion services that allow c
       <p align="center">
          <img src="/HOL/IOTHubPiHackathon/images/CustomDeviceParams.jpg"/> 
       </p>
+     
+  - Take note of the values in the Device key and Primary key fields. Feel free to use the parameters template provided earlier.
       
   - As a final step in this lab, add a high temperature limit to the device twin.  We will use this later in the lab.
     - Click on the device you created. 
