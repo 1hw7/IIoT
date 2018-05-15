@@ -88,9 +88,9 @@ Consumer groups are a key element in Azure event ingestion services that allow c
      
   - Take note of your Device ID, as you will need this later. Feel free to use the parameters template provided earlier.
       
-  - As a final step in this lab, add a high temperature limit to the device twin.  We will use this later in the lab.
-    - Click on the device you created. 
-    - Under "Device Twin", in the "Tags" category, click "Edit".
+  - As a final step in this lab, add a high temperature limit to your physical device. 
+    - Select the checkbox of the physical device you created.. 
+    - Select "Jobs".
     <p align="center">
        <img src="/HOL/IOTHubPiHackathon/images/twinTag1.jpg" /> 
     </p>
