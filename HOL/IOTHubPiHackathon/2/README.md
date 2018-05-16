@@ -94,9 +94,13 @@ Consumer groups are a key element in Azure event ingestion services that allow c
     <p align="center">
        <img src="/HOL/IOTHubPiHackathon/images/twinTag1.jpg" /> 
     </p>
+    
     - Click "+ Add Tag".
+    
     - Add a new parameter "tags.HighTemperatureLimit" under "TAGS".  Set it to 40 and make it of data type "Number".
-    - Click "Save Changes to Device Twin".
+    
+    - Click " Apply ".
+    
     <p align="center">
       <img src="/HOL/IOTHubPiHackathon/images/twinTag2.jpg" width="70%" height="70%" /> 
     </p>
