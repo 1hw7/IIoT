@@ -51,7 +51,7 @@ The following subsections of the Hands on Labs are as follows:
  * [1 - Hands on Lab Setup](/HOL/IOTHubPiHackathon/1)
 
  * 2 - Provision **ONE** of the following:<br>
-   * a) [A Remote Monitoring Pre-configured Solution](/HOL/IOTHubPiHackathon/2), <BR>
+   * a) [A Remote Monitoring Solution Accelerator](/HOL/IOTHubPiHackathon/2), <BR>
    **OR**<br>
    * b) [An IoT Hub](/HOL/IOTHubPiHackathon/2b)<br>
 
