@@ -33,7 +33,7 @@ You can order your hardware from a variety of online sites such as adafruit.com,
 - [iothub-explorer](https://github.com/azure/iothub-explorer).  You will use the iothub-explorer to view the telemetry coming in from your Raspberry Pi into the IoT Hub.
 
 ### OTHERS 
-- An Azure subscription with permissions to create Azure services.  You can use a free Azure account, but you will not be able to complete all paths of the lab.  The free account does not allow the creation of preconfigured solutions.  OPTIONAL: A corporate Azure subscription. This is required if you plan to use a preconfigured solution. You can use a corporate MSDN Azure subscription or a subscription from your company. 
+- An Azure subscription with permissions to create Azure services.  You can use a free Azure account, but you will not be able to complete all paths of the lab.  The free account does not allow the creation of solution accelerators.  OPTIONAL: A corporate Azure subscription. This is required if you plan to use a preconfigured solution. You can use a corporate MSDN Azure subscription or a subscription from your company. 
 - OPTIONAL A PowerBI account (same account as the corporate Azure account).
 - A basic understanding of Python and Linux.
 
