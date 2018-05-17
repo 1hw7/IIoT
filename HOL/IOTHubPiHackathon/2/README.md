@@ -1,4 +1,4 @@
-In the following section of the Hands on Lab, you will walk through the creation of a remote monitoring pre-configured solution from the Azure IoT Suite microsite. 
+In the following section of the Hands on Lab, you will walk through the creation of a remote monitoring solution accelerator from the Azure IoT Suite microsite. 
 
 ## Create a Remote Monitoring Solution Accelerator
 1. Setup your Azure IoT Suite remote monitoring solution accelerator. You will use this solution accelerator for the duration of the labs to help with visualization of the data and other IoT functions. 
@@ -51,8 +51,8 @@ Consumer groups are a key element in Azure event ingestion services that allow c
          <img src="/HOL/IOTHubPiHackathon/images/consumerGroups.jpg" /> 
       </p>
 
-## Create Your Device in the Remote Monitoring Pre-configured Solution 
-1. Go back to the Azure IoT Suite microsite tab. Your pre-configured solution should be provisioned now. Click the "Launch" button on the newly provisioned remote monitoring solution. This will open up a new browser tab to your remote monitoring solution dashboard.
+## Create Your Device in the Remote Monitoring Solution Accelerator
+1. Go back to the Azure IoT Suite microsite tab. Your solution accelerator should be provisioned now. Click the "Launch" button on the newly provisioned remote monitoring solution. This will open up a new browser tab to your remote monitoring solution dashboard.
       <p align="center">
          <img src="/HOL/IOTHubPiHackathon/images/SolutionReady.jpg" width="30%" height="30%" /> 
       </p>
@@ -61,7 +61,7 @@ Consumer groups are a key element in Azure event ingestion services that allow c
          <img src="/HOL/IOTHubPiHackathon/images/RMSignIn.jpg" width="50%" height="50%"/> 
       </p>
 3. If the following page requires you to accept the terms and conditions, click "I Agree". 
-4. You will now have access to your created remote monitoring preconfigured solution. Feel free to browse around and review the features available in the pre-configured solution. 
+4. You will now have access to your created remote monitoring solution accelerator. Feel free to browse around and review the features available in the solution accelerator. 
       <p align="center">
          <img src="/HOL/IOTHubPiHackathon/images/RMDashboard.jpg"/> 
       </p>
