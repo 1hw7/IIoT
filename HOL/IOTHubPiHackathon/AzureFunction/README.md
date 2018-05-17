@@ -30,7 +30,7 @@ For ease of getting through the lab, we have provided the code that you will nee
 4.	Fill out the required values to create a function <br>
   - Provide the function app a name (eg. functionC2DHoL)
   - Select your Azure subscription
-  - If given an option to choose between "Windows" and "Linux" as the OS, choose "Windows" (at the time of publishing this lab update, Linux was still in Preview)
+  - If given an option to choose between "Windows", "Linux" and "Docker" as the OS, choose "Windows" (At the time of this publication, Linux was still in preview)
   - Select your existing subscription that you are using for the hands on lab
   - For hosting plan, select “consumption plan”
   - For location, choose the closest data centre (eg. East US)
