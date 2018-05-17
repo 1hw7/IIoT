@@ -1,8 +1,8 @@
 At the end of the Hands on Labs, you should clean up your Azure account so that the resources provisioned do not continue to consume funds from your account. There are two options that we suggest you follow:
 
-### Option 1 - Delete the Pre-configured Solution Completely
+### Option 1 - Delete the Solution Accelerator Completely
 
-If you did not create a preconfigured solution skip this step.
+If you did not create a solution accelerator skip this step.
 
 1. Remove any functions you created. <br>
     - Click on "Function Apps" in the Azure portal  https://ms.portal.azure.com/
@@ -10,10 +10,10 @@ If you did not create a preconfigured solution skip this step.
     - Click on "Manage"
     - Click on the "Delete" button
 
-1. Delete the Remote Monitoring Pre-configured Solution completely if you are not planning to continue to work on the labs in your own time. <br />
+1. Delete the Remote Monitoring Solution Accelerator completely if you are not planning to continue to work on the labs in your own time. <br />
   - Best way to remove all the resources is through the www.azureiotsuite.com microsite
     - Navigate to www.azureiotsuite.com
-    - Click the tile for your pre-configured solution: 
+    - Click the tile for your solution accelerator: 
     
       <p align="center">
          <img src="/HOL/IOTHubPiHackathon/images/SolutionReady.jpg" width="50%" height="50%"/> 
