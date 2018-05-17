@@ -38,7 +38,7 @@ If you did not create the free IoT Hub skip this step.
 ### Option 3 - Reduce the size of the running Azure services
 If you plan on using the PCS after this lab, you can leave it running but it's recommended that you reduce the size/scale of some of the resources so that the services consume less from your subscription. 
 1. Change the IoT Hub from an S2 – Standard to an S1 – Standard.
-  - Within the pre-configured solution resource group, click on the IoT Hub service. 
+  - Within the solution accelerator resource group, click on the IoT Hub service. 
   - Navigate to Settings -> Pricing and Scale -> and change the pricing tier to S1 – Standard. Make sure to click "Save" in the top navigation.
     
       <p align="center">
@@ -46,7 +46,7 @@ If you plan on using the PCS after this lab, you can leave it running but it's r
       </p> 
 
 2. Change the Storage account from Standard – GRS to Standard – LRS.
-  - Click on the pre-configured solution storage account
+  - Click on the solution accelerator storage account
   - Navigate to Settings -> Configuration. Select Locally-redundant storage (LRS). Make sure to click Save in the top navigation.
 
       <p align="center">
@@ -54,7 +54,7 @@ If you plan on using the PCS after this lab, you can leave it running but it's r
       </p> 
       
 3. Change the App Service plans from S1 - Standard to B1 – Basic. Note that there’s two app services to scale down. 
-   - Click on the app service plans that were provisioned as part of the pre-configured solution
+   - Click on the app service plans that were provisioned as part of the solution accelerator
    - Under Settings -> Scale Up (App Service Plan), select the B1 - Basic plan and click "Select"
    - Do the same for the *-jobhost* service plan
      <p align="center">
